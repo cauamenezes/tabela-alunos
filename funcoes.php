@@ -49,6 +49,6 @@ function alterarNotaAluno(array &$turma, $nome, $novaNota)
         if ($aluno["nome"] == $nome) {
             $turma[$chave]["nota"] = $novaNota;
         }
-        return;
     }
+    return;
 }
