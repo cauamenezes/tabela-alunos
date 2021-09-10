@@ -74,3 +74,5 @@ situacaoDoAluno($alunos);
 </body>
 
 </html>
+
+teste
